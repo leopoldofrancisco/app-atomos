@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": 2,
+        "name": "Notebook Mac Pro",
+        "price": 12000.89
+      },
+      {
+        "id": 3,
+        "name": "Samsung S20+",
+        "price": 5000.89
+      },
+      {
+        "name": " Lápis preto",
+        "price": "50",
+        "id": 4
+      },
+      {
+        "name": "Itel A60s",
+        "price": "62000",
+        "id": 5
+      },
+      {
+        "id": 6,
+        "name": "IPhone XR",
+        "price": 250000
+      }
+    ]
+  }
